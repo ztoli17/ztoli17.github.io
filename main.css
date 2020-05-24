@@ -8,3 +8,6 @@ ul {
 ol {
  list-style-position: inside;
 }
+p {
+  padding: 35px;
+}
