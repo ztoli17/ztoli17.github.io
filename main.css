@@ -2,3 +2,9 @@ body {
  background-image: url("/Teaching/Labor/images/windows.jpg");			
  text-align: center;
  }
+ul {
+ text-align:center;
+}
+ol {
+ text-align:center;
+}
